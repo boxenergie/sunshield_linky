@@ -1,7 +1,7 @@
  <p> Ecrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a><br><br>
-          <u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br> </p>
+          <u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br> 
 				
-       <p><h2>Notre objectif</h2>
+       <h2>Notre objectif</h2>
    		 <b>Proposer au plus grand nombre une box énergie pour moins de 100€ et sans abonnement. </b>
           Nous voulons permettre à chacun de suivre sa consommation électrique, sa production et son autoconsommation. 
           Nous voulons ouvrir ce projet à d’autres initiatives en faveur des énergies renouvelables pour tous.
