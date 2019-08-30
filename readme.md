@@ -1,13 +1,12 @@
  <p> Ecrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a><br><br>
-          <u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br> 
-				
-       <h2>Notre objectif</h2>
+          <u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a>
+					
+       <b>Notre objectif</b>
    		 <b>Proposer au plus grand nombre une box énergie pour moins de 100€ et sans abonnement. </b>
           Nous voulons permettre à chacun de suivre sa consommation électrique, sa production et son autoconsommation. 
           Nous voulons ouvrir ce projet à d’autres initiatives en faveur des énergies renouvelables pour tous.
-			<br>
           
-          <h2>La box énergie</h2>
+          <b>La box énergie</b>
           <br>
           Nous nous sommes appuyés sur le Raspberry pi et nodered et avons développé une première fonctionnalité visible sur 
           le site <a href="http://demo.sunshare.fr/" target="_blank" >demo.sunshare.fr</a>. 
