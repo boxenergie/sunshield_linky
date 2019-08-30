@@ -1,5 +1,9 @@
- <p> Ecrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a><br><br>
-          <u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br>
+
+Cette page décrit le projet de shield pour l'acquisition des données d'énergie vers le raspberry pour le projet sunshare.
+
+Article du projet <a href="https://boxenergie.sunshare.fr" target="_blank">boxenergie sunshare</a><br>
+
+<u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br>
 
  <b>Notre objectif</b>
    		 Proposer au plus grand nombre une box énergie pour moins de 100€ et sans abonnement.
@@ -19,4 +23,6 @@
            <br> <br>
            
  Nous pensons que ce projet est prometteur et faisons appel à la communauté de makers et développeurs opensource pour l’ajout de nouvelles fonctionnalités
+ 
+  <p> Ecrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a><br><br>
 </p>
