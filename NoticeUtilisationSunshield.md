@@ -19,7 +19,8 @@ Le shield utilise les 12 premieres broches du rasperry;
 
 Il suffit alors de la pluger sur les 6 premiers pin du raspberry, comme présenté ci-dessous; 
 
-![image](https://user-images.githubusercontent.com/39769580/76016226-c100ce80-5f1c-11ea-9c1e-674d1846aaba.png)
+![image](https://user-images.githubusercontent.com/39769580/76018951-41293300-5f21-11ea-9645-6601f511ff1f.png)
+
 
 ATTENTION à bien respecter la polarité pour les borniers des compteurs à impulsion
 
@@ -32,11 +33,12 @@ Pour la TIC après avoir installer Picocom dans le terminal, il suffit d’entre
 
 Les résulats normalent attendus sont présenté ci-dessous; 
 
-![image](https://user-images.githubusercontent.com/39769580/76018539-7e40f580-5f20-11ea-8d4a-857c920ca5a5.png)
+![image](https://user-images.githubusercontent.com/39769580/76018529-7b460500-5f20-11ea-8d89-33839cad184e.png)
 
 On peut remarquer que les étiquettes des données restituées sont conforme à la documentation <a href="https://www.enedis.fr/sites/default/files/Enedis-NOI-CPT_54E.pdf" target="_blank" >ENEDIS</a>. 
 
-![image](https://user-images.githubusercontent.com/39769580/76018529-7b460500-5f20-11ea-8d89-33839cad184e.png)
+![image](https://user-images.githubusercontent.com/39769580/76018539-7e40f580-5f20-11ea-8d4a-857c920ca5a5.png)
+
 
  ## Récupération des impulsions. 
 
