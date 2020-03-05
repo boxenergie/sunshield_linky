@@ -34,7 +34,7 @@ Pour la TIC après avoir installer Picocom dans le terminal, il suffit d’entre
 
 Les résulats normalent attendus sont présenté ci-dessous; 
 
-![image](https://user-images.githubusercontent.com/39769580/76018529-7b460500-5f20-11ea-8d89-33839cad184e.png)
+![image](https://user-images.githubusercontent.com/39769580/76019730-75e9ba00-5f22-11ea-980c-cfb8cacd7eb9.png)
 
 On peut remarquer que les étiquettes des données restituées sont conforme à la documentation <a href="https://www.enedis.fr/sites/default/files/Enedis-NOI-CPT_54E.pdf" target="_blank" >ENEDIS</a>. 
 
