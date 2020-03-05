@@ -1,5 +1,7 @@
 
-## Soudage des composants traversant sur le PCB
+## Soudage des composants traversant sur le <a href="https://github.com/sunsharebox/sunshield_linky/tree/master/Recuperation_Compteur_impulsion" target="_blank" >PCB</a>
+
+https://github.com/sunsharebox/sunshield_linky/tree/master/Fichiers%20Creation%20PCB
 
 Afin d’avoir le moins de difficultés possible nous vous conseillons de souder les composants dans l’ordre suivant :
 - Les résistances : R1, R2, R3, R4, R5, 56
