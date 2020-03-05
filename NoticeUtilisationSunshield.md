@@ -16,3 +16,4 @@ Après soudage des composants, la carte devrait se présenter comme suit :
 Récupération des impulsions. 
 
 2 programmes sont disponibles afin d’interagir soit avec le compteur correspondant à la pin 17 ou 4 du raspberry. 
+![Image description](https://user-images.githubusercontent.com/39769580/76011441-e2f65300-5f14-11ea-81f8-4a562ae1b018.jpeg)
