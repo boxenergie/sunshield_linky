@@ -32,7 +32,7 @@ Pour la TIC après avoir installer Picocom dans le terminal, il suffit d’entre
 - **picocom -b 9600 -d 7 -p e -f n/dev/ttyS0**  Pour compteur en mode standard 
 - **picocom -b 1200 -d 7 -p e -f n/dev/ttyS0**  Pour compteur en mode historique
 
-Les résulats normalent attendus sont présenté ci-dessous; 
+Les résulats normalement attendus sont présenté ci-dessous; 
 
 ![image](https://user-images.githubusercontent.com/39769580/76019730-75e9ba00-5f22-11ea-980c-cfb8cacd7eb9.png)
 
