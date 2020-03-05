@@ -6,7 +6,7 @@ Ce document rend compte des choix techniques utilisés afin de réaliser la cart
 La TIC est composé de deux sorties I1 et I2. En observant le signal aux bornes de ces deux sorties, nous obtenons le chronogramme suivant : 
 
 
-IMAGE
+![image](https://user-images.githubusercontent.com/39769580/76022283-1c37be80-5f27-11ea-87b9-9a302b3298c3.png)
 
 
 
@@ -40,7 +40,7 @@ IMAGE
 - Sur l’entrée  - se trouvera le signal en sortie de l’émetteur. Ainsi avec cette disposition, notre info linky est bien inversée et est parfaitement exploitable compte tenue du signal carré propre comme on peut le voir ci-dessous.
 
 
-IMAGE
+![image](https://user-images.githubusercontent.com/39769580/76022301-23f76300-5f27-11ea-8169-4b6f7e63b8d0.png)
 
 # Décodage du compteur à impulsions
 
@@ -51,4 +51,8 @@ Le compteur à impulsions permet d’informer l’utilisateur sur l’énergie p
 De ce fait, le but ici est de capter ces impulsions pour qu’elles puissent être traitées par le raspberry. Comme énoncé dans les spécifications, les impulsions de ces capteurs répondent à la norme  EN 62 053-31 (Tension 12-27V DC/ courant <27mA). Cela ne répondant pas aux critères électriques du GPIO, il faut adapter cette impulsion pour qu’elle soit comprise entre 0V et 3,3V. 
 
 Le moyen le plus simple est d’ajouter une charge résistive avec une résistance de pull up. Le schéma se présente comme suit:
+
+## test du compteur à impulsion
+
+![image](https://user-images.githubusercontent.com/39769580/76022320-2f4a8e80-5f27-11ea-80b0-5182b2699b8a.png)
 
