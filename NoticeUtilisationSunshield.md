@@ -60,5 +60,5 @@ Voici le résultat attendu;
 </p>
 
 
-** Ce shield est sous la licence libre **
+*Ce shield est sous la licence libre*
 
