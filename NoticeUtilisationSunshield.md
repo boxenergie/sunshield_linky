@@ -1,12 +1,12 @@
 
 ## Soudage des composants traversant sur le PCB
 
-Afin d’avoir le moins de difficultés possible nous vous conseillons de souder les composants dans l’ordres suivant :
-- 1 les résistances : R1, R2, R3, R4, R5, 56
-- 2 U4 (optocoupleur)
-- 3 U1 (Comparateur)
-- 4 borniers à vis
-- 5 Header femmelle raspberry
+Afin d’avoir le moins de difficultés possible nous vous conseillons de souder les composants dans l’ordre suivant :
+- Les résistances : R1, R2, R3, R4, R5, 56
+- U4 (optocoupleur)
+- U1 (Comparateur)
+- Borniers à vis
+- Header femmelle raspberry
 
 Après soudage des composants, la carte devrait se présenter comme suit : 
 
