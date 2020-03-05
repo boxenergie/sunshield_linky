@@ -10,7 +10,8 @@ Afin d’avoir le moins de difficultés possible nous vous conseillons de souder
 
 Après soudage des composants, la carte devrait se présenter comme suit : 
 
-![Image description](https://user-images.githubusercontent.com/39769580/76011441-e2f65300-5f14-11ea-81f8-4a562ae1b018.jpeg)
+
+![2004C04D-BB02-4FB7-82B7-72F6062E4B26](https://user-images.githubusercontent.com/39769580/76019076-7897df80-5f21-11ea-9535-1b0dbdda3ec3.jpeg)
 
 ## Branchement du shield sur le raspberry
 Le shield utilise les 12 premieres broches du rasperry; 
@@ -42,7 +43,22 @@ On peut remarquer que les étiquettes des données restituées sont conforme à 
 
  ## Récupération des impulsions. 
 
-2 programmes sont disponibles afin d’interagir soit avec le compteur correspondant à la pin 17 ou 4 du raspberry. 
+ <a href="https://github.com/sunsharebox/sunshield_linky/tree/master/Recuperation_Compteur_impulsion" target="_blank" >2 programmes</a> sont disponibles afin d’interagir soit avec le compteur correspondant à la pin 17 ou 4 du raspberry. 
 
-Ce shield est sous la licence libre LGPL (licence libre ouverte avec citation des sources)
+Copier le programme sur le raspebbery, se rendre sur le terminal dans le dossier où se trouve les programmes. Lancer le programme avec la commande "
+
+- **sudo python +NOM_PROGRAMME**
+
+Voici le résultat attendu; 
+
+
+![image](https://user-images.githubusercontent.com/39769580/76019459-0a075180-5f22-11ea-91ad-e65626841355.png)
+
+https://github.com/sunsharebox/sunshield_linky/tree/master/Recuperation_Compteur_impulsion
+
+ <p> Pour toute question, ecrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a><br><br>
+</p>
+
+
+* * Ce shield est sous la licence libre * *
 
