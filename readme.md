@@ -26,3 +26,5 @@ Article du projet <a href="https://boxenergie.sunshare.fr" target="_blank">boxen
  
   <p> Ecrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a><br><br>
 </p>
+
+![Image description](https://user-images.githubusercontent.com/39769580/76011441-e2f65300-5f14-11ea-81f8-4a562ae1b018.jpeg)
