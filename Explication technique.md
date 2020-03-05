@@ -44,3 +44,11 @@ IMAGE
 
 # Décodage du compteur à impulsions
 
+
+
+Le compteur à impulsions permet d’informer l’utilisateur sur l’énergie produite par ses panneaux solaires. La plupart de ces capteurs sont équipés d’écran LCD affichant l’énergie produite. Ils sont aussi équipés de deux sorties d’impulsions (impuls+, impuls-) produisant 1000 impulsions pour un kWh produit. Pour une impulsion du capteur, l’énergie produite par les panneaux est de 1Wh.
+
+De ce fait, le but ici est de capter ces impulsions pour qu’elles puissent être traitées par le raspberry. Comme énoncé dans les spécifications, les impulsions de ces capteurs répondent à la norme  EN 62 053-31 (Tension 12-27V DC/ courant <27mA). Cela ne répondant pas aux critères électriques du GPIO, il faut adapter cette impulsion pour qu’elle soit comprise entre 0V et 3,3V. 
+
+Le moyen le plus simple est d’ajouter une charge résistive avec une résistance de pull up. Le schéma se présente comme suit:
+
