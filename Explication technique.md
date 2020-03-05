@@ -1,7 +1,7 @@
 
-Ce document rend compte des choix techniques utilisés afin de réaliser la carte Sunshield. Il est apparu dans les spécifications techniques 3 blocs à réaliser qui sont : l’alimentation du shield, le décodage de la TIC du compteur Linky ainsi que le décodage du compteur à impulsion.
+	Ce document rend compte des choix techniques utilisés afin de réaliser la carte Sunshield. Il est apparu dans les spécifications techniques 3 blocs à réaliser qui sont : l’alimentation du shield, le décodage de la TIC du compteur Linky ainsi que le décodage du compteur à impulsion.
 	
-## Décodage de la TIC du compteur Linky 
+# Décodage de la TIC du compteur Linky 
 
 la TIC est composé de deux sorties I1 et I2. En observant le signal aux bornes de ces deux sorties, nous obtenons le chronogramme suivant : 
 
@@ -42,5 +42,5 @@ IMAGE
 
 IMAGE
 
-## Décodage du compteur à impulsions
+# Décodage du compteur à impulsions
 
