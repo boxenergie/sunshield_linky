@@ -36,7 +36,7 @@ Les résulats normalent attendus sont présenté ci-dessous;
 
 ![image](https://user-images.githubusercontent.com/39769580/76019730-75e9ba00-5f22-11ea-980c-cfb8cacd7eb9.png)
 
-On peut remarquer que les étiquettes des données restituées sont conforme à la documentation <a href="https://www.enedis.fr/sites/default/files/Enedis-NOI-CPT_54E.pdf" target="_blank" >ENEDIS</a>. 
+On peut remarquer que les étiquettes des données restituées sont conforme à la documentation <a href="https://www.enedis.fr/sites/default/files/Enedis-NOI-CPT_54E.pdf" target="_blank" >ENEDIS</a> (page 18) 
 
 ![image](https://user-images.githubusercontent.com/39769580/76018539-7e40f580-5f20-11ea-8d4a-857c920ca5a5.png)
 
