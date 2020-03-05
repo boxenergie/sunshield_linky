@@ -55,9 +55,11 @@ Voici le résultat attendu;
 ![image](https://user-images.githubusercontent.com/39769580/76019459-0a075180-5f22-11ea-91ad-e65626841355.png)
 
 
+**Ce shield à été testé et focntionne avec des compteurs LINKY de différentes marques qu'ils soient en mode historique ou standard**
 
- <p> Pour toute question, ecrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a><br><br>
-</p>
+
+*Pour toute question, ecrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a>*
+
 
 
 *Ce shield est sous la licence libre*
