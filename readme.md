@@ -1,6 +1,9 @@
 
 Cette page décrit le projet de shield pour l'acquisition des données d'énergie vers le raspberry pour le projet sunshare.
 
+https://user-images.githubusercontent.com/39769580/76103013-3a59f900-5fd1-11ea-981d-2e4690670819.png
+
+
 Article du projet <a href="https://boxenergie.sunshare.fr" target="_blank">boxenergie sunshare</a><br>
 
 <u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br>
