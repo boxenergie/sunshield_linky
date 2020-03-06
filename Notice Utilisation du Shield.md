@@ -47,7 +47,7 @@ On peut remarquer que les étiquettes des données restituées sont conforme à 
 
  ## Récupération des impulsions. 
 
- <a href="https://github.com/sunsharebox/sunshield_linky/tree/master/Code%20Recuperation%20infos%20compteur%20impulsionn" target="_blank" >2 programmes</a> sont disponibles afin d’interagir soit avec le compteur correspondant à la pin 17 ou 4 du raspberry. 
+ <a href="https://github.com/sunsharebox/sunshield_linky/tree/master/Code%20Recuperation%20infos%20compteur%20impulsion" target="_blank" >2 programmes</a> sont disponibles afin d’interagir soit avec le compteur correspondant à la pin 17 ou 4 du raspberry. 
 
 Copier le programme sur le raspebbery, se rendre sur le terminal dans le dossier où se trouve les programmes. Lancer le programme avec la commande "
 
