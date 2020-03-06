@@ -5,5 +5,4 @@
 - <a href="https://jlcpcb.com/quote#/?orderType=1&stencilLayer=2" target="_blank">commander les PCB</a> en ajoutant le <a href="https://github.com/sunsharebox/sunshield_linky/blob/master/Fichiers%20Creation%20PCB/PCB%20traversant/Gerber_Sunshield_traversant.zip" target="_blank">gerber file</a> 
 
 
-
-
+- souder les composants en se référent à la <a href="https://github.com/sunsharebox/sunshield_linky/blob/master/Notice%20Utilisation%20du%20Shield.md" target="_blank">notice</a>
