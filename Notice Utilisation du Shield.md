@@ -48,11 +48,14 @@ On peut remarquer que les étiquettes des données restituées sont conformes à
 
  ## Récupération des impulsions. 
 
- <a href="https://github.com/sunsharebox/sunshield_linky/tree/master/Code%20Recuperation%20infos%20compteur%20impulsion" target="_blank" >2 programmes</a> sont disponibles afin d’interagir soit avec le compteur correspondant à la pin 17 soit avec celui de la pin 4 du raspberry. 
+ <a href="https://github.com/sunsharebox/sunshield_linky/tree/master/Code%20Recuperation%20infos%20compteur%20impulsion" target="_blank" >1 programme</a> est disponible afin d’interagir soit avec le compteur correspondant à la pin 17 soit avec celui de la pin 4 du raspberry. 
 
-Copier le programme sur le raspberry, se rendre sur le terminal dans le dossier où se trouvent les programmes. Lancer le programme avec la commande :
+Copier le programme sur le raspberry, se rendre sur le terminal dans le dossier où se trouve le programme. Lancer le programme avec la commande :
 
-```sudo python +NOM_PROGRAMME```
+```bash
+sudo python gpio-counterPort.py NUMERO_PIN
+# avec NUMERO_PIN = 4 ou 17 selon la pin utilisée
+```
 
 Voici le résultat attendu :
 
