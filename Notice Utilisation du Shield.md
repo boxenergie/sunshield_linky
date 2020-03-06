@@ -1,5 +1,7 @@
 
-## Soudage des composants traversant sur le <a href="https://github.com/sunsharebox/sunshield_linky/tree/master/Fichiers%20Creation%20PCB" target="_blank" >PCB</a>
+## Soudage des composants PCB traversant sur le <a href="https://github.com/sunsharebox/sunshield_linky/tree/master/Fichiers%20Creation%20PCB" target="_blank" >PCB</a>
+
+![Image description](https://user-images.githubusercontent.com/39769580/76102969-1e565780-5fd1-11ea-8ef2-b0dace72756c.png)
 
 Afin d’avoir le moins de difficultés possible nous vous conseillons de souder les composants dans l’ordre suivant :
 - Les résistances : R1, R2, R3, R4, R5, 56
