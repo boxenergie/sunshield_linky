@@ -10,7 +10,7 @@ Afin d’avoir le moins de difficultés possibles, nous vous conseillons de soud
 - U4 (optocoupleur)
 - U1 (Comparateur)
 - Borniers à vis
-- Header femmelle raspberry ATTENTION, ce composant se soude sur l'autre face (cf image ci-après)
+- Header femmelle raspberry **ATTENTION : ce composant se soude sur l'autre face (cf image ci-après)**
 
 Merci de se référer au <a href="https://easyeda.com/amguine1/sunshield_final_copy" target="_blank">Schéma</a> électronique pour souder les composants adéquats aux bons emplacements.
  
