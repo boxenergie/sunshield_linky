@@ -5,8 +5,8 @@ Ce document rend compte des choix techniques utilisés afin de réaliser la cart
 
 La TIC est composé de deux sorties I1 et I2. En observant le signal aux bornes de ces deux sorties, nous obtenons le chronogramme suivant : 
 
+<p align="center"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/39769580/76022283-1c37be80-5f27-11ea-87b9-9a302b3298c3.png"> </p>
 
-![image](https://user-images.githubusercontent.com/39769580/76022283-1c37be80-5f27-11ea-87b9-9a302b3298c3.png)
 
 
 
