@@ -66,3 +66,16 @@ Le raffinement fonctionnelle du shield montre les différentes fonctions dont il
 <p align="center"><img width="300" alt="Diagramme-Page-2" src="https://user-images.githubusercontent.com/61844088/76099799-f44e6680-5fcb-11ea-95e3-886d0e8e008f.png">
 </p>
 
+Il est aussi composé d’une alimentation qui provient directement du raspberry, celle-ci va permettre d’alimenter les composants actifs tels que les circuits.
+
+## I.1 Spécifications opératoires & technologiques
+<ul>
+<li>        Raccordement des câbles par borniers à vis( ou autre solution simple pour un particulier).</li>
+<li>         Doublage des entrées pour les compteurs à impulsions (6 borniers).</li>  
+<li>          Le circuit doit être protégé et protéger le raspberry (suggestion d’utilisation d’optocoupleurs dans la documentation shield_polytech_v5)</li>
+<li>         Laisser accessible les broches GPIO du raspberry non utilisées à disposition afin de pouvoir  raccorder une autre carte d’extension par-dessus (contacteurs pour délestage).</li>
+	<li>          Coût unitaire de fabrication de la carte fini inférieur à 20€ </li>
+</ul>
+
+# II. Réflexions sur le shield
+## I.1 Design
