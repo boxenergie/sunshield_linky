@@ -1,6 +1,8 @@
 
 ## Soudage des composants traversant sur le <a href="https://github.com/sunsharebox/sunshield_linky/tree/master/Fichiers%20Creation%20PCB" target="_blank" >PCB</a>
 
+![Image description](https://user-images.githubusercontent.com/39769580/76102969-1e565780-5fd1-11ea-8ef2-b0dace72756c.png)
+
 L'ensemble des composant utiles à la création de ce PCB sont référencé <a href="https://github.com/sunsharebox/sunshield_linky/blob/master/Fichiers%20Creation%20PCB/PCB%20traversant/Liste%20des%20composants.md" target="_blank" >ICI</a>
 
 Afin d’avoir le moins de difficultés possible nous vous conseillons de souder les composants dans l’ordre suivant :
