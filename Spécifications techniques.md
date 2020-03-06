@@ -77,5 +77,4 @@ Il est aussi composé d’une alimentation qui provient directement du raspberry
 	<li>          Coût unitaire de fabrication de la carte fini inférieur à 20€ </li>
 </ul>
 
-# II. Réflexions sur le shield
-## I.1 Design
+
