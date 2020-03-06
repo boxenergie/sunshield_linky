@@ -39,8 +39,7 @@ IMAGE
 
 - Sur l’entrée  - se trouvera le signal en sortie de l’émetteur. Ainsi avec cette disposition, notre info linky est bien inversée et est parfaitement exploitable compte tenue du signal carré propre comme on peut le voir ci-dessous.
 
-
-![image](https://user-images.githubusercontent.com/39769580/76022301-23f76300-5f27-11ea-8169-4b6f7e63b8d0.png)
+<p align="image"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/39769580/76022301-23f76300-5f27-11ea-8169-4b6f7e63b8d0.png"> </p>
 
 # Décodage du compteur à impulsions
 
