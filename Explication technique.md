@@ -39,7 +39,7 @@ IMAGE
 
 - Sur l’entrée  - se trouvera le signal en sortie de l’émetteur. Ainsi avec cette disposition, notre info linky est bien inversée et est parfaitement exploitable compte tenue du signal carré propre comme on peut le voir ci-dessous.
 
-<p align="image"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/39769580/76022301-23f76300-5f27-11ea-8169-4b6f7e63b8d0.png"> </p>
+<p align="center"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/39769580/76022301-23f76300-5f27-11ea-8169-4b6f7e63b8d0.png"> </p>
 
 # Décodage du compteur à impulsions
 
@@ -53,5 +53,4 @@ Le moyen le plus simple est d’ajouter une charge résistive avec une résistan
 
 ## test du compteur à impulsion
 
-![image](https://user-images.githubusercontent.com/39769580/76022320-2f4a8e80-5f27-11ea-80b0-5182b2699b8a.png)
-
+<p align="center"> <img width="400"  src="https://user-images.githubusercontent.com/39769580/76022320-2f4a8e80-5f27-11ea-80b0-5182b2699b8a.png"> </p>
