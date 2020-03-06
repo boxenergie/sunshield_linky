@@ -3,7 +3,7 @@
 
 ![Image description](https://user-images.githubusercontent.com/39769580/76102969-1e565780-5fd1-11ea-8ef2-b0dace72756c.png)
 
-L'ensemble des composant utiles à la création de ce PCB sont référencé <a href="https://github.com/sunsharebox/sunshield_linky/blob/master/Fichiers%20Creation%20PCB/PCB%20traversant/Liste%20des%20composants.md" target="_blank" >ICI</a>
+L'ensemble des composant utiles à la création de ce PCB sont référencé <a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=4c69358422" target="_blank">ICI</a>
 
 Afin d’avoir le moins de difficultés possible nous vous conseillons de souder les composants dans l’ordre suivant :
 - Les résistances : R1, R2, R3, R4, R5, 56
@@ -11,6 +11,9 @@ Afin d’avoir le moins de difficultés possible nous vous conseillons de souder
 - U1 (Comparateur)
 - Borniers à vis
 - Header femmelle raspberry
+
+Merci de se réferer au <a href="https://easyeda.com/amguine1/sunshield_final_copy" target="_blank">Schema</a> électronique pour souder les composants adéquats aux bons emplacements.
+ 
 
 Après soudage des composants, la carte devrait se présenter comme suit : 
 
