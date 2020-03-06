@@ -24,8 +24,7 @@ Pour démoduler le signal et isoler electriquement le raspberry du compteur le c
 
 En sortie de l’optocoupleur nous obtenons l’oscillogramme suivant:
 
-IMAGE
-
+![image](https://user-images.githubusercontent.com/39769580/76109191-426b6600-5fdc-11ea-93ee-b2bfcec3e5be.png)
 
 Le signal obtenu est bien carré mais il comporte beaucoup de bruit. Pour avoir le moins d’erreurs possibles lors de la lecture de la TIC par le raspberry, nous avons décidé d’utiliser un comparateur pour effectuer un seuillage. 
 
@@ -33,11 +32,10 @@ Le comparateur est composé de deux entrées, - et +.
 
 - Sur l’entrée +, nous mettons le seuil qui est le plus cohérent compte tenu des informations. Sachant que le signal a une amplitude d’environ **1,5V** sans les pics de tension, le seuil est fixé à la moitié soit **0,75V**. Pour cela un simple pont diviseur a été effectué (cf schéma).
 
-IMAGE
-
-
-
 - Sur l’entrée  - se trouvera le signal en sortie de l’émetteur. Ainsi avec cette disposition, notre info linky est bien inversée et est parfaitement exploitable compte tenue du signal carré propre comme on peut le voir ci-dessous.
+
+![image](https://user-images.githubusercontent.com/39769580/76109240-5911bd00-5fdc-11ea-889a-1e59d1174a77.png)
+
 
 <p align="center"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/39769580/76022301-23f76300-5f27-11ea-8169-4b6f7e63b8d0.png"> </p>
 
