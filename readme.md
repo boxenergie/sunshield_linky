@@ -1,10 +1,11 @@
 
-# Cette page décrit le projet de shield pour l'acquisition des données d'énergie vers le raspberry pour le projet sunshare.
+# Carte pour l'acquisition des données du compteur linky et de production d'énergie sur le raspberry (GPIO) pour le projet de boxenergie.
 
 
 <p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76103935-d20c1700-5fd2-11ea-8317-cf65dcb8d723.png"> </p>
 
-Article du projet <a href="https://boxenergie.sunshare.fr" target="_blank">boxenergie sunshare</a><br>
+Article du projet <a href="https://sunshare.fr/boxenergie" target="_blank">boxenergie sunshare</a><br>
+
 
 <u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br>
 
@@ -27,6 +28,9 @@ Article du projet <a href="https://boxenergie.sunshare.fr" target="_blank">boxen
            
  Nous pensons que ce projet est prometteur et faisons appel à la communauté de makers et développeurs opensource pour l’ajout de nouvelles fonctionnalités
  
-  <p> Ecrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a><br><br>
+ 
+Ce projet est libre (LGPL). Il a été imaginé pour faciliter l'accès de chacun à ses consommations et productions d'électricité pour une coût limité. Vous pouvez découvrir notre communauté sur http://github.com/boxenergie .  <p> Ecrire à <a href="mailto:boxenergie@sunshare.fr/">boxenergie@sunshare.fr</a><br><br>
 </p>
+
+Ce projet a été financé par crowdfunding et nous remercions ici nos contributeurs :
 
