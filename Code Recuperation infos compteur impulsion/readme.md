@@ -1,3 +1,5 @@
+Le code intégral de la boxenergie est développé sous nodered et mis à disposition sur la page http://github.com/boxenergie.
+
 Ces 2 codes python permettent d'intéragir avec les pins du raspberry qui sont ainsi en relation avec les borniers des compteurs à impulsions. 
 
 Pour rappel : 
