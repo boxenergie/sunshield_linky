@@ -65,9 +65,9 @@ ________________________________________________________________________________
 **Ce shield à été testé et fonctionne avec des compteurs LINKY de différentes marques qu'ils soient en mode historique ou standard**
 
 
-*Pour toute question, écrire à <a href="mailto:contact@sunshare.fr/">contact@sunshare.fr</a>*
+*Pour toute question, écrire à <a href="mailto:boxenergie@sunshare.fr/">boxenergie@sunshare.fr</a>*
 
 
 
-*Ce shield est sous la licence libre*
+*Ce shield est sous la licence libre openhargware LGPL*
 
