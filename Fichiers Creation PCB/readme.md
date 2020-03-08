@@ -4,3 +4,4 @@ Dans ce dossier les fichiers de la carte sont disponibles pour les versions trav
 <br>
 <b> Projet Sunshield cms: </b> https://easyeda.com/amguine1/sunshield_final
 
+Pour la fabrication nous avons utiliser le site https://jlcpcb.com ,néanmoins d'autres options peuvent être envisagés avec d'autres sites de fabrication de PCB.  
