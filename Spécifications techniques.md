@@ -68,7 +68,7 @@ Le raffinement fonctionnelle du shield montre les différentes fonctions dont il
 
 Il est aussi composé d’une alimentation qui provient directement du raspberry, celle-ci va permettre d’alimenter les composants actifs tels que les circuits.
 
-## I.1 Spécifications opératoires & technologiques
+## I.3 Spécifications opératoires & technologiques
 <ul>
 <li>        Raccordement des câbles par borniers à vis( ou autre solution simple pour un particulier).</li>
 <li>         Doublage des entrées pour les compteurs à impulsions (6 borniers).</li>  
