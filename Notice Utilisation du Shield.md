@@ -33,7 +33,9 @@ ATTENTION à bien respecter la polarité pour les borniers des compteurs à impu
 
 ## Récupération de la TIC
 
-Pour la TIC, après avoir installé Picocom dans le terminal, il suffit d’entrer les commandes suivantes ; 
+Pour information, le bornier correspondant à la TIC est physiquement router sur la broche 8 du respberry (UART0 TX).
+
+Pour récuperer l'information de la TIC, après avoir installé Picocom dans le terminal, il suffit d’entrer les commandes suivantes ; 
 
 - `picocom -b 9600 -d 7 -p e -f n/dev/ttyS0`  Pour compteur en mode standard 
 - `picocom -b 1200 -d 7 -p e -f n/dev/ttyS0`  Pour compteur en mode historique
