@@ -1,5 +1,5 @@
 
-# Carte libre pour l'acquisition des données du compteur linky et de production d'énergie sur le raspberry (GPIO) pour le projet de boxenergie.
+# Carte libre pour l'acquisition des données du compteur linky et de production d'énergie sur le raspberry pi (GPIO) pour le projet de boxenergie.
 
 
 <p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76103935-d20c1700-5fd2-11ea-8317-cf65dcb8d723.png"> </p>
