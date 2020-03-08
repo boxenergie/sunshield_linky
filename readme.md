@@ -34,4 +34,18 @@ Ce projet est libre (LGPL). Il a été imaginé pour faciliter l'accès de chacu
 </p>
 
 Ce projet a été financé par crowdfunding et nous remercions ici nos contributeurs :
-
+Nous tenons à remercier chaleureusement nos contributeurs décisifs ainsi que tous les  <a href="#note2">donateurs [2]</a>, :
+  <a href="http://sunshare.fr" target="_blank"><img src="https://user-images.githubusercontent.com/49123814/76154169-0c131100-60d8-11ea-8093-d38ee54677f5.png"
+                alt="sunshare" width="220"></a>  
+  <a href="http://alisee.org/" target="_blank"><img src="https://user-images.githubusercontent.com/49123814/76154170-0caba780-60d8-11ea-9005-7d8bc49a22c7.png"
+                alt="alisee" width="150"></a>  
+  <a href="https://paysdelaloire.enercoop.fr/" target="_blank"><img src="https://user-images.githubusercontent.com/49123814/76154168-0c131100-60d8-11ea-9f6e-5dc0544dcf1f.png"
+                alt="enercoop pays de la loire" width="150"></a>  
+<br>
+  <a href="https://nantesencommun.org/" target="_blank"><img src="https://user-images.githubusercontent.com/49123814/76154167-0c131100-60d8-11ea-9c04-720d9e96113d.png"
+                alt="nantes en commun" width="150"></a>  
+  <a href="https://smart-electricite.fr/" target="_blank"><img src="https://user-images.githubusercontent.com/49123814/76154166-0b7a7a80-60d8-11ea-9985-95fe221be84b.png"
+                alt="smart électricité" width="150"></a>  
+  <a href="https://idesys.org" target="_blank"><img src="https://user-images.githubusercontent.com/49123814/76154165-0ae1e400-60d8-11ea-8661-70dab55fcd31.png"
+                alt="IdeSyS" width="80"></a>  
+<br>
