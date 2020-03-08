@@ -11,13 +11,13 @@ Ainsi pour récupérer l'information du compteur à impulsion 1 il suffit de lan
 
 ```bash
 sudo python gpio-counterPort.py NUMERO_PIN
-# avec NUMERO_PIN = 17 selon la pin utilisée
+# avec NUMERO_PIN = 17 
 ```
 
-De même pour le compteur à impulsion 2 
+De même pour le compteur à impulsion 2 : 
 
 ```bash
 sudo python gpio-counterPort.py NUMERO_PIN
-# avec NUMERO_PIN = 4 selon la pin utilisée
+# avec NUMERO_PIN = 4 
 ```
 
