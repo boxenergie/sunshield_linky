@@ -15,7 +15,7 @@ Afin d’avoir le moins de difficultés possible, nous vous conseillons de soude
 Merci de se référer au <a href="https://easyeda.com/amguine1/sunshield_final_copy" target="_blank">Schéma</a> électronique pour souder les composants adéquats aux bons emplacements.
  
 
-Après soudage des composants, la carte devrait se présenter comme suie : 
+Après soudage des composants, la carte devrait se présenter comme suit : 
 
 <p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76019076-7897df80-5f21-11ea-9535-1b0dbdda3ec3.jpeg"> </p>
 
