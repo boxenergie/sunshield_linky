@@ -21,4 +21,3 @@ sudo python gpio-counterPort.py NUMERO_PIN
 # avec NUMERO_PIN = 4 selon la pin utilisée
 ```
 
-<p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76018951-41293300-5f21-11ea-9645-6601f511ff1f.png"> </p>
