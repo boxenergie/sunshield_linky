@@ -7,7 +7,8 @@
 Article du projet <a href="https://sunshare.fr/boxenergie" target="_blank">boxenergie sunshare</a><br> 
 <u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br>
 
-<p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/49123814/76154130-6c558300-60d7-11ea-93ad-d9da95ee724f.png"> </p>
+<p align="center">  <a href=http://demo.sunshare.fr/ target="_blank"><img width="400" alt="demo page" src="https://user-images.githubusercontent.com/49123814/76154130-6c558300-60d7-11ea-93ad-d9da95ee724f.png"> </a>
+<br><br>écran sunshare de démonstration</p>
 
 
  <b>Notre objectif</b>
@@ -22,10 +23,8 @@ Article du projet <a href="https://sunshare.fr/boxenergie" target="_blank">boxen
           C’est notre premier pas ! 95€ ...... mais on peut faire encore <b>moins</b> !<br>
           <br>
           
-   <a href=http://sunshare.fr/assets/images/ShieldSunShare2.png target="_blank"><img src="http://sunshare.fr/assets/images/ShieldSunShare2.png"
-                alt="écran sunshare de démonstration" width="300"></a>
-              <br><p><br><br>écran sunshare de démonstration</p>
-           <br> <br>
+   <a href=http://sunshare.fr/assets/images/ShieldSunShare2.png target="_blank"><img src="http://sunshare.fr/assets/images/ShieldSunShare2.png" alt="schéma de fonctionnement de la boxenergie" width="300"></a>
+   <p><br>schéma de fonctionnement de la boxenergie</p>
            
  Nous pensons que ce projet est prometteur et faisons appel à la communauté de makers et développeurs opensource pour l’ajout de nouvelles fonctionnalités
  
