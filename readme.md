@@ -7,8 +7,8 @@
 Article du projet <a href="https://sunshare.fr/boxenergie" target="_blank">boxenergie sunshare</a><br> 
 <u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br>
 
-<p align="center">  <a href=http://demo.sunshare.fr/ target="_blank"><img width="400" alt="demo page" src="https://user-images.githubusercontent.com/49123814/76154130-6c558300-60d7-11ea-93ad-d9da95ee724f.png"> </a>
-<br><br>écran sunshare de démonstration</p>
+<p align="center">  <a href=http://demo.sunshare.fr target="_blank"><img width="400" alt="demo page" src="https://user-images.githubusercontent.com/49123814/76154130-6c558300-60d7-11ea-93ad-d9da95ee724f.png"> </a> </p>
+<p><br>écran sunshare de démonstration</p>
 
 
  <b>Notre objectif</b>
