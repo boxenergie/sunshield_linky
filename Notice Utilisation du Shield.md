@@ -69,5 +69,5 @@ ________________________________________________________________________________
 
 
 
-*Ce shield est sous la licence libre openhargware LGPL*
+*Ce shield est sous la licence libre openhardware LGPL*
 
