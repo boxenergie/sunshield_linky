@@ -8,7 +8,7 @@ Pour la fabrication nous avons utiliser le site https://jlcpcb.com ,néanmoins d
 
 Ce projet est libre (LGPL)
 
-<p align="center"> <img width="100" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76168954-59dd5700-6174-11ea-9a1a-4f80a31cc3cf.jpg"> </p>
+<p> <img width="100" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76168954-59dd5700-6174-11ea-9a1a-4f80a31cc3cf.jpg"> </p>
 
 
 
