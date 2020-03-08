@@ -57,6 +57,25 @@ sudo python gpio-counterPort.py NUMERO_PIN
 # avec NUMERO_PIN = 4 ou 17 selon le bornier du shield utilisé
 ```
 
+Pour rappel : 
+
+<p align="center"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/39769580/76018951-41293300-5f21-11ea-9645-6601f511ff1f.png"> </p>
+
+
+Ainsi pour récupérer l'information du compteur à impulsion 1 il suffit de lancer le programme avec la commande :
+
+```bash
+sudo python gpio-counterPort.py NUMERO_PIN
+# avec NUMERO_PIN = 17 
+```
+
+De même pour le compteur à impulsion 2 : 
+
+```bash
+sudo python gpio-counterPort.py NUMERO_PIN
+# avec NUMERO_PIN = 4 
+```
+
 Voici le résultat attendu :
 
 <p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76019459-0a075180-5f22-11ea-91ad-e65626841355.png"> </p>
