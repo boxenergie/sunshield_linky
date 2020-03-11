@@ -4,18 +4,20 @@
 
 <p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76103935-d20c1700-5fd2-11ea-8317-cf65dcb8d723.png"> </p>
 
+Ce shield est présenté à ce stade non soudé. Nous recherchons des partenaires pour le préparer et le commercialiser.
+
 Article du projet <a href="https://sunshare.fr/boxenergie" target="_blank">boxenergie sunshare</a><br> 
-<u>Pour les plus aguerris,</u> le projet est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br>
+<u>Pour les plus aguerris,</u> le montage est décrit en détails ici : <a href="https://pad.lamyne.org/s/H1AyUjmI7#" target="_blank">étude matériel sunshare</a><br>
 
 <p><br>écran sunshare de démonstration</p>
 <p align="center">  <a href=http://demo.sunshare.fr target="_blank"><img width="400" alt="demo page" src="https://user-images.githubusercontent.com/49123814/76154130-6c558300-60d7-11ea-93ad-d9da95ee724f.png"> </a> </p>
 
 
  <b>Notre objectif</b>
-   		 Proposer au plus grand nombre une box énergie pour moins de 100€ et sans abonnement.
           Nous voulons permettre à chacun de suivre sa consommation électrique, sa production et son autoconsommation. 
           Nous voulons ouvrir ce projet à d’autres initiatives en faveur des énergies renouvelables pour tous.
-          
+       		 Nous voulons proposer au plus grand nombre une box énergie pour moins de 100€ et sans abonnement.
+
   <b>La box énergie</b>
           <br>
           Nous nous sommes appuyés sur le Raspberry pi et nodered et avons développé une première fonctionnalité visible sur 
