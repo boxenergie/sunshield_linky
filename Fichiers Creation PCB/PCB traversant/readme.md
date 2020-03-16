@@ -13,5 +13,4 @@
 
 <p align="center"> <img width="600" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76786431-84a05e80-67b7-11ea-8289-fb00f0da479c.jpg"> </p>
 
-<p align="center"> <img alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76786452-8a963f80-67b7-11ea-82d2-3ed31f7b0886.png"> </p>
 
