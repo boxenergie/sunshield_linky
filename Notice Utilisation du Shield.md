@@ -31,14 +31,24 @@ Il suffit alors de la pluguer sur les 6 premiers pin du raspberry, comme présen
 
 ATTENTION à bien respecter la polarité pour les borniers des compteurs à impulsions
 
+Pour activer le port série UART sur le raspberry :
+<code> sudo raspi-config </code>
+et Interfacing Options / Serial
+ “Would you like a login shell to be accessible over serial?” Choisir **NO**
+ “Would you like the serial port hardware to be enabled?” Choisir **YES**
+ 
+ info : une note importante à propos du bluetooth et du port série du raspberry pi :
+ https://www.framboise314.fr/le-port-serie-du-raspberry-pi-3-pas-simple/
+ 
+ 
 ## Récupération de la TIC
 
 Pour information, le bornier correspondant à la TIC est physiquement router sur la broche 8 du respberry (UART0 TX).
 
 Pour récuperer l'information de la TIC, après avoir installé Picocom dans le terminal, il suffit d’entrer les commandes suivantes ; 
 
-- `picocom -b 9600 -d 7 -p e -f n/dev/ttyS0`  Pour compteur en mode standard 
-- `picocom -b 1200 -d 7 -p e -f n/dev/ttyS0`  Pour compteur en mode historique
+- `picocom -b 9600 -d 7 -p e -f n /dev/ttyS0`  Pour compteur en mode standard 
+- `picocom -b 1200 -d 7 -p e -f n /dev/ttyS0`  Pour compteur en mode historique
 
 Les résulats normalement attendus sont présentés ci-dessous; 
 
