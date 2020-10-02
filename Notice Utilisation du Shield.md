@@ -31,13 +31,13 @@ Il suffit alors de la brancher sur les 6 premiers pin du raspberry, comme prése
 
 ATTENTION à bien respecter la polarité pour les borniers des compteurs à impulsions
 
-Pour activer le port série UART sur le raspberry :
+**Vous devez activer le port série UART sur le raspberry pi 3 :**
 <code> sudo raspi-config </code>
 et Interfacing Options / Serial
  “Would you like a login shell to be accessible over serial?” Choisir **NO**
  “Would you like the serial port hardware to be enabled?” Choisir **YES**
  
- info : une note importante à propos du bluetooth et du port série du raspberry pi :
+ ***important** : note à propos du bluetooth et du port série du raspberry pi :
  https://www.framboise314.fr/le-port-serie-du-raspberry-pi-3-pas-simple/
  
  
