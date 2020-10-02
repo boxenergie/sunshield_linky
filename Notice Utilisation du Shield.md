@@ -25,7 +25,7 @@ Le shield utilise les 12 premières broches du rasperry;
 
 <p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76015897-328c4d00-5f1c-11ea-9de5-c1fc46b414e7.png"> </p>
 
-Il suffit alors de la pluguer sur les 6 premiers pin du raspberry, comme présenté ci-dessous; 
+Il suffit alors de la brancher sur les 6 premiers pin du raspberry, comme présenté ci-dessous; 
 
 <p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76018951-41293300-5f21-11ea-9645-6601f511ff1f.png"> </p>
 
@@ -43,7 +43,7 @@ et Interfacing Options / Serial
  
 ## Récupération de la TIC
 
-Pour information, le bornier correspondant à la TIC est physiquement router sur la broche 8 du respberry (UART0 TX).
+Pour information, le bornier correspondant à la TIC est physiquement routé sur la broche 8 du raspberry (UART0 TX).
 
 Pour récuperer l'information de la TIC, après avoir installé Picocom dans le terminal, il suffit d’entrer les commandes suivantes ; 
 
