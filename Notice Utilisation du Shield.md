@@ -92,6 +92,11 @@ Voici le résultat attendu :
 
 <p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76019459-0a075180-5f22-11ea-91ad-e65626841355.png"> </p>
 
+
+ ## Installer la boxenergie complète
+Si vous souhaitez un développement plus abouti, le code de la boxénergie est disponible sur nodered sur la page :
+https://github.com/boxenergie/theme_dark_nodered
+
 _________________________________________________________________________________________________________________________
 **Ce shield à été testé et fonctionne avec des compteurs LINKY de différentes marques qu'ils soient en mode historique ou standard**
 
