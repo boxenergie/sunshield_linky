@@ -97,6 +97,8 @@ Voici le résultat attendu :
 Si vous souhaitez un développement plus abouti, le code de la boxénergie est disponible sur nodered sur la page :
 https://github.com/boxenergie/theme_dark_nodered
 
+Nous testons de nombreuses solutions de développement sur https://pad.lamyne.org/s/H1AyUjmI7#
+
 _________________________________________________________________________________________________________________________
 **Ce shield à été testé et fonctionne avec des compteurs LINKY de différentes marques qu'ils soient en mode historique ou standard**
 
